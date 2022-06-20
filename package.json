@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "4.6.0",
-    "merkletreejs": "^0.2.32"
+    "merkletreejs": "0.2.32"
   }
 }
